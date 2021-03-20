@@ -1,0 +1,5 @@
+aitextgen
+beautifulsoup4
+selenium
+fake_useragent
+webdriver_manager
